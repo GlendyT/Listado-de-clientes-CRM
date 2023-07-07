@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Kim Namjoon",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Actualizado",
+      "id": 1
+    },
+    {
+      "nombre": "Kim Seokjin",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "Nuevo",
+      "id": 2
+    },
+    {
+      "nombre": "Min Yoongi",
+      "empresa": "Codigo Con Juan",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "Gato",
+      "id": 3
+    },
+    {
+      "nombre": "Jung Hoseok",
+      "empresa": "Codigo Con Juan",
+      "email": "miguel@juan.com",
+      "telefono": "319381983",
+      "notas": "hobi",
+      "id": 4
+    },
+    {
+      "nombre": "Park Jimin ",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "mochie",
+      "id": 5
+    },
+    {
+      "nombre": "Kim Taehyung",
+      "empresa": "Big Hit",
+      "email": "seokjin@bighit.com",
+      "telefono": "613-613",
+      "notas": "V",
+      "id": 6
+    },
+    {
+      "nombre": "Jeon JungKook",
+      "empresa": "Big Hit",
+      "email": "Hoseok@bighit.com",
+      "telefono": "613-613",
+      "notas": "JK",
+      "id": 7
+    }
+  ]
+}
